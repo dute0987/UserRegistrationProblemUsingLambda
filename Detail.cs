@@ -21,6 +21,7 @@ namespace UserRegistrationUsingLambda
             Email = email;
             PhoneNumber = phoneNumber;
             Passward = passward;
+
         }
     }
 }
