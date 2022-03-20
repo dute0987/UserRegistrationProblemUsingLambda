@@ -11,7 +11,7 @@ namespace UserRegistrationUsingLambda
         }
         private static void AddRecords(List<Detail> detaillist)
         {
-            detaillist.Add(new Detail("Vishal","Dute","dute0987@gmail.com","+91 8978776889","LUCkismyside"));
+            detaillist.Add(new Detail("Vishal","Dute","dute0987@gmail.com","+91 8978776889","LUCkismyside1234"));
             foreach (Detail detail in detaillist)
             {
                 //Console.WriteLine("First Name: " + detail.FirstName);
